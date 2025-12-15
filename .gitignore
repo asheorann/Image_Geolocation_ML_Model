@@ -1,0 +1,29 @@
+# Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models
+**/*.pt
+**/*.pth
+**/*.ckpt
+
+# Data / media (ANY location)
+**/data/
+**/datasets/
+**/images/
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.csv
+**/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db

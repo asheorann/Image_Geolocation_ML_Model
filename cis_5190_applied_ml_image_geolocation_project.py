@@ -78,7 +78,6 @@ import numpy as np
 """# Huggingface login
 You will require your personal token.
 
-TOKEN: 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
 """
 
 !huggingface-cli login
